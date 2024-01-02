@@ -1,13 +1,11 @@
 @charset "UTF-8";
 body {
-    margin: 0 auto;
-    max-width: 500px;
     font: 1.2em/1.5 sans-serif;
 }
 
 button {
     display: block;
-    margin: 0 auto;
+    margin: 100px auto;
     width: 200px;
     font-family: inherit;
     font-size: 100%;
