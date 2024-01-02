@@ -1,1 +1,5 @@
-document.querySelector("button").addEventListener("click", () => { alert("Hello!") });
+const button = document.querySelector("button");
+
+button.addEventListener("click", () => {
+  alert("Hello!");
+});
