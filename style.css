@@ -1,9 +1,12 @@
 @charset "UTF-8";
+html {
+    font: 1.2em/1.5 sans-serif;
+}
+
 body {
     margin: 0 auto;
     width: 60%;
     max-width: 600px;
-    font: 1.2em/1.5 sans-serif;
 }
 
 button {
