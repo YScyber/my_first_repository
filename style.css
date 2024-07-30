@@ -9,6 +9,10 @@ body {
 }
 
 button {
+    display: block;
+    margin: 20px auto;
+    width: 90%;
+    max-width: 600px;
     font-family: inherit;
     font-size: 100%;
 }
