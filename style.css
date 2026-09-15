@@ -1,18 +1,22 @@
 @charset "UTF-8";
 html {
-    font: 1.2em/1.5 sans-serif;
+    font: 1em/1.2 sans-serif;
 }
 
 body {
     margin: 0;
     padding: 0;
+    background-color: #000;
 }
 
 button {
     display: block;
-    margin: 20px auto;
-    width: 90%;
-    max-width: 600px;
+    margin: 5em auto;
+    padding: 5em 3em;
+    background-color: #f8f8f8;
+    border: none;
+    border-radius: 10%;
     font-family: inherit;
     font-size: 100%;
+    font-weight: bold;
 }
